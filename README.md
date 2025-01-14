@@ -8,3 +8,7 @@ An experimental twilight zone.
 * `podman build -t docker.io/cartheur/pdm-golang .`
 
 STOP 34:00
+
+### Errata
+
+Publish file [from](https://paulyu.dev/article/publishing-container-images-to-ghcr/)
